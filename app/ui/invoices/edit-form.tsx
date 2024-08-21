@@ -4,7 +4,6 @@ import { CustomerField, InvoiceForm } from '@/app/lib/definitions';
 import { updateInvoice, State } from '@/app/lib/actions';
 import { useActionState } from 'react';
 
-
 import {
   CheckIcon,
   ClockIcon,
